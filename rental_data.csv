@@ -1,0 +1,501 @@
+area_sqft,bedrooms,bathrooms,location,furnishing,property_type,rent,rent_category
+1161,2,3,City Center,Furnished,Independent House,57634,Premium
+2154,3,3,Suburb,Unfurnished,Independent House,63881,Premium
+1183,3,2,Near College,Unfurnished,Studio,42448,Premium
+1872,3,2,IT Park,Semi-Furnished,Independent House,63376,Premium
+468,4,3,City Center,Semi-Furnished,Studio,34021,Moderate
+1005,1,3,City Center,Furnished,Studio,43569,Premium
+710,2,2,IT Park,Furnished,Studio,38799,Moderate
+1613,4,3,Near College,Unfurnished,Studio,50464,Premium
+1035,1,2,Near College,Unfurnished,Studio,36821,Moderate
+1230,2,1,Near College,Unfurnished,Studio,40337,Premium
+1890,3,3,Outskirts,Semi-Furnished,Apartment,60081,Premium
+1838,4,2,IT Park,Furnished,Independent House,71701,Premium
+608,4,1,Suburb,Furnished,Independent House,38213,Moderate
+1579,2,3,IT Park,Furnished,Studio,56419,Premium
+1402,1,1,Near College,Semi-Furnished,Independent House,53776,Premium
+1221,4,2,Near College,Furnished,Independent House,53190,Premium
+1374,1,2,Near College,Semi-Furnished,Independent House,51605,Premium
+1157,4,1,IT Park,Unfurnished,Independent House,47384,Premium
+782,4,1,Outskirts,Furnished,Apartment,39044,Moderate
+1574,1,2,Outskirts,Unfurnished,Independent House,45283,Premium
+1101,2,3,Outskirts,Semi-Furnished,Independent House,38205,Moderate
+516,4,3,Suburb,Unfurnished,Apartment,30956,Moderate
+1276,4,1,IT Park,Unfurnished,Studio,47235,Premium
+1054,1,1,Near College,Semi-Furnished,Apartment,39109,Moderate
+512,2,1,IT Park,Semi-Furnished,Studio,25274,Moderate
+1644,2,1,Suburb,Furnished,Independent House,61715,Premium
+1676,4,2,Suburb,Furnished,Apartment,60153,Premium
+2019,1,2,City Center,Unfurnished,Independent House,57472,Premium
+1421,3,1,IT Park,Unfurnished,Studio,42001,Premium
+1681,3,2,City Center,Furnished,Independent House,66758,Premium
+1552,3,1,City Center,Semi-Furnished,Apartment,58571,Premium
+1263,1,1,IT Park,Unfurnished,Apartment,44735,Premium
+1437,4,1,IT Park,Unfurnished,Apartment,49471,Premium
+991,3,2,Outskirts,Semi-Furnished,Independent House,38224,Moderate
+1242,2,3,City Center,Furnished,Independent House,59057,Premium
+1257,2,3,Suburb,Semi-Furnished,Studio,38491,Moderate
+843,4,1,Near College,Semi-Furnished,Studio,35192,Moderate
+389,2,3,Outskirts,Semi-Furnished,Apartment,23908,Moderate
+1374,2,1,Near College,Unfurnished,Apartment,43026,Premium
+1569,3,3,City Center,Unfurnished,Apartment,57074,Premium
+2044,4,1,Suburb,Unfurnished,Independent House,59190,Premium
+1036,2,3,City Center,Semi-Furnished,Independent House,51027,Premium
+2112,3,1,Outskirts,Unfurnished,Apartment,57216,Premium
+2081,1,1,Outskirts,Unfurnished,Studio,48390,Premium
+2185,1,3,Suburb,Semi-Furnished,Studio,66097,Premium
+2002,1,2,Outskirts,Furnished,Apartment,64215,Premium
+1574,2,2,City Center,Furnished,Independent House,64029,Premium
+835,1,3,IT Park,Furnished,Independent House,39581,Moderate
+1887,4,1,City Center,Unfurnished,Apartment,62273,Premium
+1967,1,1,Suburb,Semi-Furnished,Studio,50842,Premium
+2147,2,2,Outskirts,Furnished,Apartment,64062,Premium
+774,2,1,Outskirts,Unfurnished,Apartment,28782,Moderate
+1286,4,3,Outskirts,Unfurnished,Apartment,38926,Moderate
+1837,1,3,Near College,Unfurnished,Studio,46772,Premium
+578,3,3,Outskirts,Unfurnished,Independent House,25621,Moderate
+1253,3,2,Outskirts,Unfurnished,Apartment,44447,Premium
+2060,2,1,Near College,Unfurnished,Studio,57169,Premium
+545,3,1,City Center,Semi-Furnished,Studio,33089,Moderate
+1452,1,3,City Center,Furnished,Apartment,56438,Premium
+1801,4,1,Near College,Semi-Furnished,Independent House,66942,Premium
+1824,2,1,Suburb,Furnished,Apartment,59059,Premium
+1955,4,2,IT Park,Semi-Furnished,Studio,63157,Premium
+1137,1,2,City Center,Semi-Furnished,Studio,36462,Moderate
+808,2,1,Suburb,Semi-Furnished,Independent House,31437,Moderate
+544,4,1,Outskirts,Furnished,Studio,27279,Moderate
+1875,2,1,Suburb,Unfurnished,Apartment,52892,Premium
+656,1,1,Outskirts,Furnished,Independent House,30164,Moderate
+389,3,1,Near College,Unfurnished,Independent House,27171,Moderate
+1443,3,3,Outskirts,Unfurnished,Independent House,46890,Premium
+1283,3,3,Outskirts,Unfurnished,Studio,35301,Moderate
+685,4,1,Near College,Unfurnished,Independent House,41996,Premium
+1120,2,1,IT Park,Semi-Furnished,Studio,38247,Moderate
+446,2,3,City Center,Furnished,Apartment,31006,Moderate
+2019,1,3,Outskirts,Furnished,Studio,55768,Premium
+1538,3,3,Near College,Furnished,Independent House,60074,Premium
+1301,4,3,Outskirts,Semi-Furnished,Apartment,38039,Moderate
+1533,1,1,IT Park,Semi-Furnished,Studio,48124,Premium
+1121,3,1,Near College,Semi-Furnished,Apartment,39093,Moderate
+955,2,2,Near College,Semi-Furnished,Studio,32725,Moderate
+2105,3,3,Suburb,Unfurnished,Studio,64973,Premium
+1340,4,3,IT Park,Unfurnished,Independent House,55416,Premium
+1335,4,2,Suburb,Furnished,Independent House,52429,Premium
+724,3,3,City Center,Furnished,Apartment,44361,Premium
+525,3,3,Outskirts,Semi-Furnished,Independent House,32208,Moderate
+604,4,3,Near College,Furnished,Studio,34874,Moderate
+1797,4,3,Near College,Semi-Furnished,Independent House,60886,Premium
+1441,1,1,City Center,Unfurnished,Studio,45994,Premium
+1408,2,2,City Center,Semi-Furnished,Apartment,54941,Premium
+1828,3,2,IT Park,Furnished,Studio,56695,Premium
+571,4,1,City Center,Furnished,Studio,43328,Premium
+1124,4,3,Near College,Semi-Furnished,Studio,47476,Premium
+2011,4,3,IT Park,Semi-Furnished,Studio,68088,Premium
+931,2,1,IT Park,Semi-Furnished,Independent House,44324,Premium
+1160,3,2,City Center,Furnished,Independent House,60405,Premium
+2081,2,3,City Center,Semi-Furnished,Studio,69037,Premium
+2175,1,3,City Center,Semi-Furnished,Independent House,74296,Premium
+1923,4,2,Near College,Unfurnished,Apartment,54294,Premium
+1619,3,1,Near College,Semi-Furnished,Apartment,60001,Premium
+896,4,2,IT Park,Furnished,Independent House,47433,Premium
+2049,3,3,City Center,Unfurnished,Independent House,63733,Premium
+1976,3,1,Suburb,Furnished,Apartment,66380,Premium
+2198,1,2,City Center,Unfurnished,Independent House,67940,Premium
+2009,4,1,IT Park,Unfurnished,Studio,59332,Premium
+1787,4,1,Near College,Unfurnished,Studio,52536,Premium
+416,1,1,Suburb,Semi-Furnished,Studio,22755,Moderate
+1832,4,1,Outskirts,Semi-Furnished,Studio,45236,Premium
+1831,4,3,Suburb,Unfurnished,Studio,55374,Premium
+1900,2,1,Outskirts,Furnished,Studio,52107,Premium
+1283,3,3,City Center,Unfurnished,Studio,47148,Premium
+637,4,3,City Center,Furnished,Independent House,43306,Premium
+1663,3,3,City Center,Unfurnished,Apartment,53848,Premium
+1490,1,1,Near College,Unfurnished,Apartment,45021,Premium
+670,2,1,Near College,Furnished,Independent House,35871,Moderate
+1198,3,3,Suburb,Furnished,Independent House,50294,Premium
+618,1,3,Outskirts,Semi-Furnished,Independent House,26896,Moderate
+1644,2,2,Near College,Semi-Furnished,Independent House,60469,Premium
+1290,3,2,City Center,Unfurnished,Independent House,57909,Premium
+598,4,1,City Center,Unfurnished,Studio,35523,Moderate
+1480,2,2,IT Park,Semi-Furnished,Studio,52059,Premium
+752,4,2,City Center,Semi-Furnished,Studio,35633,Moderate
+1124,2,2,Outskirts,Unfurnished,Apartment,38999,Moderate
+1396,3,3,City Center,Semi-Furnished,Independent House,56817,Premium
+934,1,3,Near College,Semi-Furnished,Independent House,43771,Premium
+1508,3,2,City Center,Semi-Furnished,Independent House,60157,Premium
+1989,1,3,Outskirts,Furnished,Independent House,61559,Premium
+1829,1,1,IT Park,Semi-Furnished,Apartment,56458,Premium
+564,1,1,Suburb,Semi-Furnished,Apartment,30407,Moderate
+869,3,2,Outskirts,Unfurnished,Apartment,30238,Moderate
+1723,4,1,IT Park,Unfurnished,Apartment,52038,Premium
+1038,3,1,IT Park,Furnished,Independent House,48118,Premium
+1025,3,3,IT Park,Unfurnished,Independent House,53621,Premium
+925,4,3,Near College,Furnished,Independent House,43287,Premium
+1535,2,1,IT Park,Semi-Furnished,Studio,54038,Premium
+652,3,1,IT Park,Semi-Furnished,Independent House,41786,Premium
+1378,1,3,Outskirts,Furnished,Studio,47991,Premium
+1179,4,2,IT Park,Unfurnished,Independent House,54531,Premium
+1152,2,2,Outskirts,Furnished,Apartment,41478,Premium
+2028,4,1,Suburb,Unfurnished,Apartment,55236,Premium
+1256,4,2,City Center,Unfurnished,Apartment,42252,Premium
+800,4,3,City Center,Unfurnished,Apartment,42367,Premium
+1589,4,3,Near College,Semi-Furnished,Independent House,60570,Premium
+1348,4,2,IT Park,Semi-Furnished,Studio,53004,Premium
+1771,3,3,Suburb,Semi-Furnished,Independent House,59757,Premium
+1436,1,3,Near College,Furnished,Apartment,48736,Premium
+1333,3,1,Near College,Semi-Furnished,Studio,45379,Premium
+1517,2,1,Outskirts,Furnished,Independent House,54525,Premium
+395,3,3,Suburb,Unfurnished,Apartment,26709,Moderate
+1457,3,1,Near College,Unfurnished,Apartment,49271,Premium
+1522,3,3,City Center,Furnished,Independent House,68761,Premium
+1758,3,3,Outskirts,Semi-Furnished,Studio,43341,Premium
+1796,2,3,Suburb,Furnished,Independent House,64812,Premium
+1164,3,2,Near College,Furnished,Studio,47132,Premium
+2171,1,1,Near College,Furnished,Apartment,73837,Premium
+991,1,1,Outskirts,Furnished,Independent House,33518,Moderate
+1255,4,3,Near College,Furnished,Studio,51856,Premium
+1111,1,3,Suburb,Furnished,Apartment,48403,Premium
+1833,2,3,Suburb,Semi-Furnished,Independent House,62296,Premium
+1039,4,1,Suburb,Unfurnished,Apartment,35338,Moderate
+1669,3,3,Outskirts,Furnished,Studio,50495,Premium
+1831,2,1,IT Park,Furnished,Independent House,64133,Premium
+1937,2,1,City Center,Semi-Furnished,Apartment,65555,Premium
+404,4,2,Suburb,Furnished,Independent House,32947,Moderate
+789,2,3,IT Park,Furnished,Apartment,49296,Premium
+903,3,2,IT Park,Furnished,Studio,42479,Premium
+1990,4,1,City Center,Unfurnished,Independent House,69408,Premium
+1677,2,3,IT Park,Semi-Furnished,Independent House,68378,Premium
+1104,3,1,IT Park,Unfurnished,Studio,42241,Premium
+1646,3,2,City Center,Furnished,Studio,61487,Premium
+1269,2,1,Near College,Furnished,Apartment,55256,Premium
+723,3,1,City Center,Unfurnished,Independent House,34664,Moderate
+985,2,2,Outskirts,Semi-Furnished,Studio,26148,Moderate
+1350,4,1,Outskirts,Furnished,Independent House,51014,Premium
+951,4,3,Suburb,Unfurnished,Independent House,38492,Moderate
+1442,3,2,Outskirts,Furnished,Apartment,48425,Premium
+946,1,1,Outskirts,Unfurnished,Apartment,36851,Moderate
+1815,3,3,City Center,Semi-Furnished,Apartment,68389,Premium
+2190,3,3,Outskirts,Semi-Furnished,Studio,59756,Premium
+1390,2,1,Near College,Unfurnished,Apartment,43474,Premium
+1298,4,2,Suburb,Furnished,Studio,52388,Premium
+540,2,1,Outskirts,Furnished,Studio,16759,Affordable
+1191,2,2,Near College,Unfurnished,Studio,41997,Premium
+556,3,2,City Center,Unfurnished,Studio,33604,Moderate
+732,4,1,Outskirts,Furnished,Independent House,36929,Moderate
+353,2,1,Suburb,Semi-Furnished,Apartment,20143,Moderate
+1290,2,2,City Center,Unfurnished,Apartment,42308,Premium
+1794,2,3,Near College,Semi-Furnished,Independent House,60431,Premium
+798,4,2,Suburb,Unfurnished,Independent House,32826,Moderate
+961,1,3,Suburb,Unfurnished,Studio,26151,Moderate
+1666,1,1,Near College,Semi-Furnished,Studio,51273,Premium
+2049,1,1,Suburb,Unfurnished,Apartment,58500,Premium
+554,3,2,Outskirts,Unfurnished,Apartment,27894,Moderate
+1441,3,3,City Center,Semi-Furnished,Apartment,57649,Premium
+1495,2,1,Suburb,Furnished,Independent House,52589,Premium
+820,1,3,Outskirts,Furnished,Apartment,30987,Moderate
+2171,1,2,Outskirts,Semi-Furnished,Studio,53139,Premium
+1828,1,2,City Center,Unfurnished,Independent House,63690,Premium
+937,4,1,Near College,Semi-Furnished,Independent House,44907,Premium
+385,3,1,IT Park,Semi-Furnished,Independent House,28291,Moderate
+1716,4,1,Outskirts,Furnished,Apartment,58745,Premium
+583,4,1,City Center,Semi-Furnished,Apartment,34599,Moderate
+1288,1,3,City Center,Unfurnished,Studio,43157,Premium
+2187,3,2,Outskirts,Unfurnished,Independent House,61854,Premium
+1978,2,2,Near College,Furnished,Apartment,62128,Premium
+443,2,2,City Center,Unfurnished,Studio,27435,Moderate
+1897,1,1,Suburb,Semi-Furnished,Studio,55919,Premium
+1966,4,1,City Center,Unfurnished,Studio,58894,Premium
+1082,4,3,City Center,Semi-Furnished,Independent House,57210,Premium
+1753,3,3,IT Park,Semi-Furnished,Apartment,62049,Premium
+373,1,3,Outskirts,Semi-Furnished,Studio,18591,Affordable
+524,4,3,Near College,Semi-Furnished,Studio,30021,Moderate
+626,2,3,City Center,Furnished,Independent House,40888,Premium
+1939,4,3,IT Park,Unfurnished,Studio,57991,Premium
+1706,3,3,Suburb,Semi-Furnished,Studio,53740,Premium
+1722,3,3,Near College,Semi-Furnished,Apartment,60870,Premium
+543,4,3,Outskirts,Semi-Furnished,Independent House,29211,Moderate
+534,1,1,Outskirts,Furnished,Independent House,34379,Moderate
+2161,4,2,Near College,Unfurnished,Apartment,72680,Premium
+1080,3,1,Outskirts,Furnished,Independent House,54686,Premium
+1106,1,2,Near College,Semi-Furnished,Independent House,41666,Premium
+713,2,2,Near College,Semi-Furnished,Apartment,35561,Moderate
+651,2,3,IT Park,Unfurnished,Apartment,26843,Moderate
+800,1,1,City Center,Furnished,Studio,37596,Moderate
+864,2,1,Near College,Furnished,Independent House,37310,Moderate
+1216,2,1,Near College,Semi-Furnished,Apartment,45728,Premium
+2124,1,2,City Center,Semi-Furnished,Apartment,61206,Premium
+817,1,1,Outskirts,Unfurnished,Apartment,25312,Moderate
+2018,1,3,Suburb,Furnished,Studio,56507,Premium
+482,2,1,Suburb,Furnished,Independent House,35961,Moderate
+529,4,3,Suburb,Semi-Furnished,Independent House,31622,Moderate
+655,1,1,Near College,Semi-Furnished,Independent House,31019,Moderate
+1430,3,3,City Center,Furnished,Independent House,63736,Premium
+1098,1,3,Outskirts,Semi-Furnished,Studio,33140,Moderate
+2091,2,1,City Center,Unfurnished,Independent House,65213,Premium
+839,1,3,IT Park,Unfurnished,Independent House,34827,Moderate
+1182,1,1,IT Park,Semi-Furnished,Apartment,48660,Premium
+1967,3,2,City Center,Furnished,Independent House,74827,Premium
+802,2,1,IT Park,Unfurnished,Apartment,32109,Moderate
+1788,2,2,City Center,Furnished,Apartment,72324,Premium
+1342,4,2,Near College,Semi-Furnished,Independent House,53789,Premium
+2111,1,2,Suburb,Unfurnished,Apartment,63808,Premium
+1375,4,1,City Center,Unfurnished,Independent House,53542,Premium
+570,1,3,Outskirts,Unfurnished,Independent House,26642,Moderate
+1210,4,2,Outskirts,Semi-Furnished,Apartment,42875,Premium
+2178,1,3,IT Park,Unfurnished,Studio,49147,Premium
+632,4,3,Suburb,Semi-Furnished,Studio,27735,Moderate
+983,1,3,Near College,Unfurnished,Studio,40476,Premium
+1818,4,1,City Center,Furnished,Independent House,71055,Premium
+1532,4,1,Near College,Semi-Furnished,Apartment,50527,Premium
+464,2,2,Suburb,Unfurnished,Studio,20229,Moderate
+1519,2,2,Near College,Unfurnished,Studio,47477,Premium
+1693,3,2,IT Park,Unfurnished,Independent House,57503,Premium
+1224,3,3,IT Park,Semi-Furnished,Apartment,46170,Premium
+1604,4,3,Near College,Unfurnished,Apartment,57400,Premium
+2001,3,3,Outskirts,Semi-Furnished,Apartment,62737,Premium
+1570,1,1,Near College,Semi-Furnished,Studio,52417,Premium
+1716,2,2,IT Park,Semi-Furnished,Studio,57387,Premium
+1291,3,3,City Center,Furnished,Independent House,61885,Premium
+983,3,2,City Center,Semi-Furnished,Independent House,50045,Premium
+519,2,3,Suburb,Unfurnished,Studio,20906,Moderate
+386,4,1,IT Park,Semi-Furnished,Apartment,38140,Moderate
+1942,4,1,City Center,Furnished,Studio,64750,Premium
+859,4,1,City Center,Unfurnished,Studio,39667,Moderate
+2034,3,1,Suburb,Furnished,Studio,64704,Premium
+2112,3,2,Near College,Furnished,Studio,67290,Premium
+942,3,3,Suburb,Semi-Furnished,Apartment,41034,Premium
+392,3,2,Near College,Furnished,Independent House,34319,Moderate
+1171,1,3,Outskirts,Semi-Furnished,Independent House,42633,Premium
+1357,3,2,Suburb,Unfurnished,Studio,41911,Premium
+801,2,3,Outskirts,Semi-Furnished,Studio,30821,Moderate
+2159,1,3,Suburb,Furnished,Studio,62784,Premium
+1239,3,2,Suburb,Furnished,Apartment,54610,Premium
+885,2,1,IT Park,Semi-Furnished,Independent House,43527,Premium
+754,3,3,Suburb,Semi-Furnished,Apartment,40151,Premium
+363,1,2,Near College,Unfurnished,Independent House,24679,Moderate
+605,3,3,City Center,Furnished,Apartment,38509,Moderate
+2197,2,1,City Center,Semi-Furnished,Independent House,72628,Premium
+1496,4,3,City Center,Semi-Furnished,Independent House,66836,Premium
+605,3,3,IT Park,Unfurnished,Studio,31127,Moderate
+1577,2,1,Near College,Furnished,Apartment,50791,Premium
+1133,3,2,Near College,Unfurnished,Apartment,42156,Premium
+1557,1,3,Suburb,Furnished,Studio,54546,Premium
+1696,1,3,City Center,Unfurnished,Studio,56659,Premium
+1135,1,1,Suburb,Semi-Furnished,Apartment,40989,Premium
+1806,3,3,IT Park,Semi-Furnished,Apartment,61551,Premium
+944,1,3,Outskirts,Semi-Furnished,Independent House,34317,Moderate
+2002,2,1,City Center,Semi-Furnished,Apartment,66320,Premium
+634,2,2,Outskirts,Unfurnished,Apartment,20888,Moderate
+350,1,2,Near College,Unfurnished,Apartment,20475,Moderate
+1556,3,3,City Center,Unfurnished,Independent House,57487,Premium
+1942,2,3,City Center,Unfurnished,Apartment,62103,Premium
+521,2,2,Near College,Furnished,Apartment,38372,Moderate
+1741,1,2,Near College,Unfurnished,Apartment,51915,Premium
+1030,2,1,IT Park,Semi-Furnished,Apartment,41759,Premium
+569,4,1,IT Park,Furnished,Studio,35773,Moderate
+1872,1,2,City Center,Unfurnished,Apartment,62153,Premium
+1559,1,2,Outskirts,Unfurnished,Studio,39785,Moderate
+2154,4,3,City Center,Furnished,Studio,69826,Premium
+1563,4,1,IT Park,Unfurnished,Independent House,51710,Premium
+1369,2,3,City Center,Semi-Furnished,Studio,56724,Premium
+441,4,2,Near College,Unfurnished,Independent House,23524,Moderate
+1124,2,3,IT Park,Unfurnished,Apartment,38427,Moderate
+1062,4,1,Suburb,Semi-Furnished,Apartment,44425,Premium
+1393,3,3,City Center,Unfurnished,Independent House,56461,Premium
+742,3,3,Suburb,Unfurnished,Apartment,33703,Moderate
+1996,1,2,IT Park,Unfurnished,Studio,60538,Premium
+460,2,1,Outskirts,Furnished,Independent House,34982,Moderate
+1607,1,1,Near College,Unfurnished,Apartment,44350,Premium
+1132,3,1,Near College,Unfurnished,Apartment,40846,Premium
+942,2,2,IT Park,Furnished,Apartment,43046,Premium
+839,4,2,Near College,Semi-Furnished,Independent House,40746,Premium
+2069,3,1,Outskirts,Furnished,Apartment,58995,Premium
+1496,2,1,City Center,Unfurnished,Independent House,57549,Premium
+1866,3,2,Outskirts,Furnished,Apartment,62991,Premium
+1092,1,1,Near College,Unfurnished,Apartment,34706,Moderate
+1841,4,1,City Center,Semi-Furnished,Studio,58672,Premium
+1263,2,3,Suburb,Semi-Furnished,Independent House,47389,Premium
+1431,2,1,Outskirts,Semi-Furnished,Studio,42979,Premium
+541,4,3,Suburb,Unfurnished,Studio,22797,Moderate
+1106,2,2,Near College,Semi-Furnished,Studio,39970,Moderate
+2075,3,2,Suburb,Furnished,Studio,58892,Premium
+1400,2,2,Suburb,Semi-Furnished,Studio,45257,Premium
+943,4,2,Suburb,Semi-Furnished,Independent House,42611,Premium
+657,3,3,Near College,Unfurnished,Apartment,32895,Moderate
+1390,4,3,Outskirts,Unfurnished,Studio,41576,Premium
+2065,1,2,Near College,Furnished,Studio,64607,Premium
+2099,4,2,Outskirts,Unfurnished,Independent House,62984,Premium
+358,3,1,Outskirts,Semi-Furnished,Studio,24846,Moderate
+399,2,3,Outskirts,Semi-Furnished,Apartment,15981,Affordable
+1211,2,1,Suburb,Semi-Furnished,Apartment,43519,Premium
+1975,4,2,Outskirts,Unfurnished,Studio,56835,Premium
+647,2,3,City Center,Unfurnished,Studio,23582,Moderate
+2136,1,3,Suburb,Semi-Furnished,Apartment,60677,Premium
+1449,4,3,Outskirts,Unfurnished,Studio,35983,Moderate
+1241,1,2,Suburb,Furnished,Independent House,38720,Moderate
+1136,4,2,IT Park,Semi-Furnished,Studio,45776,Premium
+1820,1,3,City Center,Unfurnished,Studio,56454,Premium
+1967,1,1,IT Park,Unfurnished,Studio,56790,Premium
+1626,3,1,Near College,Semi-Furnished,Independent House,55109,Premium
+1494,1,1,City Center,Semi-Furnished,Studio,52954,Premium
+746,2,1,Outskirts,Semi-Furnished,Studio,28509,Moderate
+529,3,3,Near College,Semi-Furnished,Apartment,34183,Moderate
+2152,1,1,Suburb,Furnished,Independent House,68847,Premium
+1523,2,2,Outskirts,Furnished,Studio,48903,Premium
+1339,2,3,Suburb,Unfurnished,Apartment,51842,Premium
+1655,3,1,IT Park,Unfurnished,Apartment,55328,Premium
+2081,4,3,Suburb,Unfurnished,Apartment,64916,Premium
+638,3,2,City Center,Furnished,Studio,36961,Moderate
+1084,4,2,Outskirts,Semi-Furnished,Studio,41055,Premium
+924,4,1,City Center,Furnished,Apartment,50747,Premium
+524,3,3,City Center,Furnished,Apartment,43987,Premium
+2155,3,3,Near College,Furnished,Apartment,66892,Premium
+1822,2,2,IT Park,Unfurnished,Studio,55604,Premium
+2147,2,3,Outskirts,Furnished,Apartment,55499,Premium
+1064,2,2,Near College,Semi-Furnished,Studio,39138,Moderate
+493,3,3,City Center,Unfurnished,Studio,26241,Moderate
+1482,1,1,City Center,Furnished,Studio,54422,Premium
+2155,4,1,Outskirts,Unfurnished,Apartment,59871,Premium
+2157,1,1,IT Park,Furnished,Studio,65520,Premium
+467,1,1,Suburb,Unfurnished,Studio,19905,Affordable
+1343,3,2,Suburb,Furnished,Apartment,53542,Premium
+1492,3,3,Near College,Furnished,Studio,58837,Premium
+517,2,1,City Center,Semi-Furnished,Apartment,36858,Moderate
+1049,2,3,IT Park,Furnished,Studio,45145,Premium
+943,1,2,Near College,Unfurnished,Independent House,32656,Moderate
+772,4,3,City Center,Semi-Furnished,Studio,43493,Premium
+697,4,1,IT Park,Furnished,Studio,34210,Moderate
+1290,4,2,Near College,Semi-Furnished,Apartment,40535,Premium
+1234,4,2,City Center,Semi-Furnished,Independent House,56410,Premium
+771,3,2,IT Park,Semi-Furnished,Apartment,41677,Premium
+1217,2,3,Near College,Furnished,Apartment,47998,Premium
+1871,3,2,IT Park,Unfurnished,Studio,56479,Premium
+1530,1,3,Outskirts,Semi-Furnished,Independent House,48478,Premium
+1575,4,3,Suburb,Semi-Furnished,Independent House,55014,Premium
+1136,3,3,IT Park,Semi-Furnished,Independent House,51233,Premium
+1200,3,1,City Center,Furnished,Independent House,49013,Premium
+717,2,2,Suburb,Unfurnished,Independent House,22763,Moderate
+854,3,1,Suburb,Furnished,Studio,31488,Moderate
+715,2,1,Outskirts,Unfurnished,Apartment,27202,Moderate
+1757,1,3,City Center,Furnished,Studio,57821,Premium
+1235,4,1,IT Park,Semi-Furnished,Studio,48896,Premium
+585,3,2,Suburb,Unfurnished,Independent House,25819,Moderate
+1240,1,3,City Center,Unfurnished,Independent House,43255,Premium
+1179,2,3,City Center,Furnished,Apartment,51052,Premium
+676,1,2,Suburb,Semi-Furnished,Apartment,31718,Moderate
+1740,1,1,IT Park,Unfurnished,Studio,50943,Premium
+1161,3,1,Suburb,Unfurnished,Apartment,32851,Moderate
+1761,1,3,Outskirts,Unfurnished,Independent House,54334,Premium
+1954,3,3,IT Park,Semi-Furnished,Apartment,57964,Premium
+2030,3,3,Near College,Furnished,Studio,70036,Premium
+379,3,2,IT Park,Unfurnished,Studio,27198,Moderate
+1401,4,2,Near College,Semi-Furnished,Independent House,50745,Premium
+766,1,3,Outskirts,Unfurnished,Studio,16946,Affordable
+1964,1,3,IT Park,Furnished,Studio,67148,Premium
+845,4,2,City Center,Semi-Furnished,Studio,40762,Premium
+1380,3,1,Near College,Semi-Furnished,Studio,48044,Premium
+457,3,3,Suburb,Unfurnished,Studio,21375,Moderate
+1610,3,1,City Center,Furnished,Apartment,65420,Premium
+839,4,3,Suburb,Furnished,Studio,40348,Premium
+1856,2,1,Suburb,Furnished,Studio,54610,Premium
+839,1,2,Suburb,Furnished,Independent House,33003,Moderate
+1785,3,3,IT Park,Unfurnished,Studio,56825,Premium
+744,3,1,IT Park,Furnished,Studio,42769,Premium
+421,1,1,Suburb,Furnished,Studio,22926,Moderate
+514,1,2,IT Park,Furnished,Studio,25735,Moderate
+699,1,1,City Center,Semi-Furnished,Apartment,33984,Moderate
+1944,3,2,Near College,Semi-Furnished,Studio,57414,Premium
+1111,3,2,City Center,Furnished,Apartment,53477,Premium
+1700,1,3,City Center,Unfurnished,Studio,56364,Premium
+721,1,1,Near College,Semi-Furnished,Apartment,36815,Moderate
+1822,1,3,Suburb,Unfurnished,Apartment,51241,Premium
+857,1,1,IT Park,Unfurnished,Independent House,36329,Moderate
+1093,4,1,City Center,Furnished,Independent House,48427,Premium
+414,1,1,IT Park,Semi-Furnished,Apartment,28471,Moderate
+740,2,3,Near College,Furnished,Apartment,43542,Premium
+771,3,1,Suburb,Furnished,Apartment,42034,Premium
+1494,3,3,Near College,Unfurnished,Apartment,50908,Premium
+2086,1,3,City Center,Furnished,Apartment,74800,Premium
+1325,4,3,City Center,Furnished,Apartment,61811,Premium
+882,2,1,City Center,Furnished,Independent House,41182,Premium
+1284,3,2,Suburb,Semi-Furnished,Studio,42823,Premium
+2039,4,1,Outskirts,Furnished,Studio,63335,Premium
+1317,4,1,Suburb,Furnished,Apartment,53434,Premium
+1685,4,3,Near College,Furnished,Apartment,72324,Premium
+1530,3,2,Suburb,Semi-Furnished,Independent House,58030,Premium
+1112,3,3,Suburb,Unfurnished,Independent House,43051,Premium
+1058,3,3,Near College,Furnished,Independent House,50349,Premium
+1774,1,2,IT Park,Unfurnished,Apartment,59088,Premium
+1884,4,1,Suburb,Semi-Furnished,Studio,52296,Premium
+1392,3,2,Outskirts,Furnished,Apartment,47586,Premium
+1950,4,1,Near College,Semi-Furnished,Studio,60505,Premium
+444,2,3,Near College,Furnished,Studio,29025,Moderate
+1730,3,3,Near College,Furnished,Apartment,58788,Premium
+1791,4,1,Near College,Semi-Furnished,Independent House,56420,Premium
+2123,2,3,Near College,Unfurnished,Independent House,65001,Premium
+1333,1,2,Suburb,Furnished,Studio,42839,Premium
+722,1,3,City Center,Semi-Furnished,Apartment,35851,Moderate
+1420,1,1,City Center,Semi-Furnished,Studio,44396,Premium
+2055,4,1,City Center,Furnished,Studio,72932,Premium
+516,1,1,Suburb,Unfurnished,Apartment,19733,Affordable
+487,1,1,City Center,Furnished,Apartment,31122,Moderate
+1782,1,2,IT Park,Semi-Furnished,Apartment,58986,Premium
+1315,4,3,Suburb,Semi-Furnished,Independent House,50022,Premium
+1215,1,1,IT Park,Semi-Furnished,Apartment,43061,Premium
+634,4,1,IT Park,Unfurnished,Independent House,38321,Moderate
+1619,3,3,IT Park,Unfurnished,Studio,51199,Premium
+919,4,1,Outskirts,Furnished,Apartment,37607,Moderate
+895,4,2,IT Park,Furnished,Apartment,52537,Premium
+1500,2,2,Suburb,Semi-Furnished,Apartment,46292,Premium
+1633,3,3,Outskirts,Unfurnished,Apartment,46821,Premium
+1176,1,2,IT Park,Unfurnished,Studio,34713,Moderate
+1165,4,3,Outskirts,Unfurnished,Apartment,38950,Moderate
+1224,3,2,City Center,Furnished,Studio,55546,Premium
+1259,4,2,IT Park,Furnished,Studio,49273,Premium
+482,2,2,Outskirts,Furnished,Apartment,19477,Affordable
+1262,3,2,Near College,Furnished,Independent House,57346,Premium
+684,2,1,Near College,Semi-Furnished,Independent House,28744,Moderate
+1149,2,3,Near College,Unfurnished,Independent House,36595,Moderate
+1404,4,1,IT Park,Unfurnished,Apartment,50016,Premium
+1509,1,1,Outskirts,Unfurnished,Independent House,41333,Premium
+1755,1,1,Suburb,Semi-Furnished,Apartment,54480,Premium
+1748,2,3,Outskirts,Semi-Furnished,Apartment,46421,Premium
+880,2,1,Outskirts,Unfurnished,Studio,25956,Moderate
+2188,1,3,IT Park,Semi-Furnished,Studio,67330,Premium
+1940,2,3,Suburb,Semi-Furnished,Studio,61256,Premium
+1890,1,1,Suburb,Semi-Furnished,Studio,55292,Premium
+2172,4,3,Suburb,Furnished,Independent House,76799,Premium
+943,3,2,Outskirts,Unfurnished,Apartment,34971,Moderate
+1527,2,2,City Center,Semi-Furnished,Independent House,63168,Premium
+961,3,1,Outskirts,Semi-Furnished,Independent House,40518,Premium
+1175,1,1,Near College,Furnished,Studio,42164,Premium
+389,4,1,Outskirts,Semi-Furnished,Apartment,22913,Moderate
+858,3,1,Suburb,Semi-Furnished,Studio,34839,Moderate
+390,1,3,Outskirts,Semi-Furnished,Studio,19457,Affordable
+1172,3,2,Near College,Semi-Furnished,Apartment,51428,Premium
+2002,1,1,Near College,Furnished,Independent House,64512,Premium
+1366,3,1,Near College,Furnished,Independent House,57904,Premium
+1690,1,2,Outskirts,Semi-Furnished,Apartment,45554,Premium
+905,4,2,Outskirts,Semi-Furnished,Independent House,43899,Premium
+435,1,2,IT Park,Unfurnished,Studio,21071,Moderate
+1162,3,2,Suburb,Unfurnished,Apartment,37042,Moderate
+1849,1,3,IT Park,Furnished,Independent House,70264,Premium
+1466,3,1,Outskirts,Semi-Furnished,Independent House,47620,Premium
+1191,1,2,Outskirts,Unfurnished,Independent House,34727,Moderate
+2062,2,1,City Center,Furnished,Independent House,74474,Premium
+2061,3,3,Near College,Unfurnished,Apartment,63555,Premium
+2144,1,3,Outskirts,Furnished,Studio,57436,Premium
+494,1,3,City Center,Semi-Furnished,Studio,33534,Moderate
+1121,3,2,Outskirts,Semi-Furnished,Independent House,40751,Premium
+488,3,3,IT Park,Furnished,Studio,28611,Moderate
+1293,3,1,Near College,Semi-Furnished,Studio,42705,Premium
+1032,4,1,City Center,Furnished,Apartment,45787,Premium
+2093,3,3,IT Park,Semi-Furnished,Independent House,67421,Premium
+1049,1,3,Outskirts,Furnished,Independent House,38708,Moderate
+2064,1,1,Near College,Semi-Furnished,Independent House,58810,Premium
+628,2,1,IT Park,Furnished,Independent House,37183,Moderate
+481,2,2,Outskirts,Semi-Furnished,Apartment,24679,Moderate
+969,1,3,City Center,Unfurnished,Independent House,42072,Premium
+1175,4,3,Suburb,Furnished,Apartment,49748,Premium
+1987,3,2,City Center,Unfurnished,Independent House,65466,Premium
+1621,1,1,Suburb,Unfurnished,Apartment,47196,Premium
